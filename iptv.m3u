@@ -45,14 +45,6 @@ http://192.168.11.6:4022/udp/239.69.1.232:11034
 http://192.168.11.6:4022/udp/239.254.96.175:9124
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视", CGTN 纪录(英语)
 http://192.168.11.6:4022/udp/239.69.1.233:11040
-#EXTINF:-1 tvg-id="891" tvg-name="CGTN 纪录(西班牙)" tvg-logo="" group-title="央视", CGTN 纪录(西班牙)
-http://192.168.11.6:4022/udp/239.69.1.234:11046
-#EXTINF:-1 tvg-id="891" tvg-name="CGTN 纪录(法语)" tvg-logo="" group-title="央视", CGTN 纪录(法语)
-http://192.168.11.6:4022/udp/239.69.1.235:11052
-#EXTINF:-1 tvg-id="891" tvg-name="CGTN 纪录(阿拉伯语)" tvg-logo="" group-title="央视", CGTN 纪录(阿拉伯语)
-http://192.168.11.6:4022/udp/239.69.1.221:10968
-#EXTINF:-1 tvg-id="891" tvg-name="CGTN 纪录(俄语)" tvg-logo="" group-title="央视", CGTN 纪录(俄语)
-http://192.168.11.6:4022/udp/239.69.1.222:10974
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视", 湖北卫视HD
 http://192.168.11.6:4022/udp/239.254.96.115:8664
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南卫视HD
@@ -187,9 +179,9 @@ http://192.168.11.6:4022/udp/239.69.1.142:10488
 http://192.168.11.6:4022/udp/239.69.1.189:10776
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方", 先锋乒羽
 http://192.168.11.6:4022/udp/239.69.1.143:10494
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方", 财富天下
+http://192.168.11.6:4022/udp/239.254.96.210:9340
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方", 爱上4K
 http://192.168.11.6:4022/udp/239.69.1.141:10482
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方", 卫生健康
 http://192.168.11.6:4022/udp/239.254.96.207:9322
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方", 财富天下
-http://192.168.11.6:4022/udp/239.254.96.210:9340
