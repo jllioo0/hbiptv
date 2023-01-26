@@ -165,31 +165,31 @@ http://192.168.11.6:4022/udp/239.69.1.241:11088
 http://192.168.11.6:4022/udp/239.69.1.242:11094
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方", CHC家庭影院HD
 http://192.168.11.6:4022/udp/239.69.1.243:11100
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方", 央视台球HD
-http://192.168.11.6:4022/udp/239.69.1.98:10224
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方", 高尔夫网球HD
-http://192.168.11.6:4022/udp/239.69.1.83:10138
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方", 茶频道HD
-http://192.168.11.6:4022/udp/239.69.1.144:10500
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方", 兵器科技HD
-http://192.168.11.6:4022/udp/239.69.1.79:10114
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方", 快乐垂钓HD
-http://192.168.11.6:4022/udp/239.69.1.142:10488
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 爱上4K
-http://192.168.11.6:4022/udp/239.69.1.141:10482
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 卫生健康
-http://192.168.11.6:4022/udp/239.254.96.207:9322
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方", 财富天下
-http://192.168.11.6:4022/udp/239.254.96.210:9340
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方", 风云音乐
 http://192.168.11.6:4022/udp/239.69.1.90:10180
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方", 第一剧场HD
 http://192.168.11.6:4022/udp/239.69.1.74:10084
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视", 中数世界地理
 http://192.168.11.6:4022/udp/239.69.1.91:10186
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方", 先锋乒羽
-http://192.168.11.6:4022/udp/239.69.1.143:10494
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方", 兵器科技HD
+http://192.168.11.6:4022/udp/239.69.1.79:10114
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方", 央视台球HD
+http://192.168.11.6:4022/udp/239.69.1.98:10224
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方", 高尔夫网球HD
+http://192.168.11.6:4022/udp/239.69.1.83:10138
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方", 茶频道HD
+http://192.168.11.6:4022/udp/239.69.1.144:10500
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方", 老故事
 http://192.168.11.6:4022/udp/239.69.1.85:10150
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方", 快乐垂钓HD
+http://192.168.11.6:4022/udp/239.69.1.142:10488
 #EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方", 书画频道
 http://192.168.11.6:4022/udp/239.69.1.189:10776
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方", 先锋乒羽
+http://192.168.11.6:4022/udp/239.69.1.143:10494
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 爱上4K
+http://192.168.11.6:4022/udp/239.69.1.141:10482
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 卫生健康
+http://192.168.11.6:4022/udp/239.254.96.207:9322
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方", 财富天下
+http://192.168.11.6:4022/udp/239.254.96.210:9340
