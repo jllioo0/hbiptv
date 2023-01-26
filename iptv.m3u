@@ -53,8 +53,6 @@ http://192.168.11.6:4022/udp/239.69.1.235:11052
 http://192.168.11.6:4022/udp/239.69.1.221:10968
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视", CGTN 纪录(俄语)
 http://192.168.11.6:4022/udp/239.69.1.222:10974
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视", 中数世界地理
-http://192.168.11.6:4022/udp/239.69.1.91:10186
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视", 湖北卫视HD
 http://192.168.11.6:4022/udp/239.254.96.115:8664
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视", 湖南卫视HD
@@ -167,8 +165,6 @@ http://192.168.11.6:4022/udp/239.69.1.241:11088
 http://192.168.11.6:4022/udp/239.69.1.242:11094
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方", CHC家庭影院HD
 http://192.168.11.6:4022/udp/239.69.1.243:11100
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方", 第一剧场HD
-http://192.168.11.6:4022/udp/239.69.1.74:10084
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方", 央视台球HD
 http://192.168.11.6:4022/udp/239.69.1.98:10224
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方", 高尔夫网球HD
@@ -187,11 +183,13 @@ http://192.168.11.6:4022/udp/239.254.96.207:9322
 http://192.168.11.6:4022/udp/239.254.96.210:9340
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方", 风云音乐
 http://192.168.11.6:4022/udp/239.69.1.90:10180
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方", 第一剧场HD
+http://192.168.11.6:4022/udp/239.69.1.74:10084
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视", 中数世界地理
+http://192.168.11.6:4022/udp/239.69.1.91:10186
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方", 先锋乒羽
 http://192.168.11.6:4022/udp/239.69.1.143:10494
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方", 老故事
 http://192.168.11.6:4022/udp/239.69.1.85:10150
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="地方", 新动漫
-http://192.168.11.6:4022/udp/239.69.1.187:10764
 #EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方", 书画频道
 http://192.168.11.6:4022/udp/239.69.1.189:10776
